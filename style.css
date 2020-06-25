@@ -1,6 +1,19 @@
+#movieForm {
+    text-align: center;
+}
+
+.movieFormHeading {
+    text-align: left;
+}
+
 #moviePage {
-    border: 3px solid rgb(20, 15, 43);
-    border-radius: 0.5rem;
     width: 60rem;
-    background-color: rgb(248, 253, 255);
+    height: 57rem;
+    background-color: rgb(244, 247, 248);
+}
+
+#movieTitle {
+    width: 50rem;
+    height: 3rem;
+    font-size: 30px;
 }
